@@ -5,9 +5,13 @@
 
 This POS System is created using Bootstrap framework , CSS , HTML for Frontend and JavaEE Servlet API used for implement Backend.
 
+
+
 ## Language,Framework and Technology 
   
     ✅JavaEE ✅HTML ✅CSS ✅JS ✅MySQL ✅Hibernate ✅Layeered Architecture ✅Bootstrap 
+
+
 
 ### Prerequisites and Tools
 
