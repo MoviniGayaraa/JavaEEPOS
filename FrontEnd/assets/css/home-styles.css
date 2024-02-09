@@ -1,0 +1,30 @@
+
+#navbarText a {
+    color: white;
+}
+
+#navbarText a:hover {
+    color: #1a4e9d;
+}
+
+body > section:nth-child(1)>section{
+    width: 95vw;
+    height: 85vh;
+}
+
+main section>button>i{
+    font-size: 150%;
+}
+#homeSection{
+    padding-top: 14vh;
+    padding-left: 13vw;
+}
+#mgCustomer{
+    margin-top: 20px;
+}
+#mgOrder{
+    margin-top: 20px;
+}
+#mgPlace{
+    margin-top: 20px;
+}
