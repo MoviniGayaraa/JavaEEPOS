@@ -20,3 +20,19 @@ This POS System is created using Bootstrap framework , CSS , HTML for Frontend a
 - MySQL Server 8.0 or newer
 - IntelliJ IDEA
 
+<h2>Features</h2>
+<ul>
+  <li>CRUD operations for products, orders, and customers.</li>
+  <li>In-memory storage for fast and efficient data access.</li>
+  <li>JSON format for data exchange.</li>
+  <li>JNDI for resource lookup and connection pooling.</li>
+</ul>
+
+<h3>To use the In-Memory POS System API, follow these steps:</h3>
+<ol>
+  <li>Start your servlet container.</li>
+  <li>Access the API using the base URL (ex:- http://localhost:8080/pos).</li>
+</ol>
+
+
+<h3>This project is licensed under the MIT License.</h3>
